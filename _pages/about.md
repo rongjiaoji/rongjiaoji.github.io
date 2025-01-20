@@ -6,23 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Currently serving as an Adjunct Assistant Professor of Data Science and Business Analytics at [Nova SBE](https://www.novasbe.unl.pt/en/faculty-research/faculty/faculty-detail/id/1267/rongjiao-ji), Rongjiao Ji predominantly instructs courses in data curation, data visualization, digital experimentation, and computer programming, across both undergraduate and graduate programs. She earned her Ph.D. from the Mathematics Department of Università degli Studi di Milano (University of Milan) under the BIGMATH program, a Marie Sklodowska-Curie Action, in collaboration with 3Lateral. Her doctoral research centered on facial emotion detection, sentiment analysis, and natural language processing. Ji holds a Master's degree in Mathematics and Applications from the Institute Superior Tecnico (University of Lisbon), and a Bachelor's degree in Information and Computing Science from Dalian University of Technology. Prior to her Ph.D., she worked as a research assistant at the Signal Processing and Image Group in the Institute for Systems and Robotics in Lisbon.
+Currently serving as an Adjunct Assistant Professor of Data Science and Business Analytics at [Nova SBE](https://www.novasbe.unl.pt/en/faculty-research/faculty/faculty-detail/id/1267/rongjiao-ji), Rongjiao Ji predominantly instructs courses in data curation, data visualization, digital experimentation, and computer programming, across both undergraduate and graduate programs. She earned her Ph.D. from the Mathematics Department of Università degli Studi di Milano (University of Milan) under the BIGMATH program, a Marie Sklodowska-Curie Action, in collaboration with 3Lateral. Her doctoral research centered on facial emotion detection, sentiment analysis, and natural language processing. Ji holds a Master's degree in Mathematics and Applications from the Institute Superior Tecnico (University of Lisbon), and a Bachelor's degree in Information and Computing Science from the Dalian University of Technology. Before her Ph.D., she worked as a research assistant at the Signal Processing and Image Group at the Institute for Systems and Robotics in Lisbon.
 
-
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
 
 Site-wide configuration
 ------
