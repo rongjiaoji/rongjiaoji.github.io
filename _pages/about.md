@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Rongjiao Ji's Personal Website"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+Currently serving as an Adjunct Assistant Professor of Data Science and Business Analytics at [Nova SBE]([https://github.com/academicpages/academicpages.github.io](https://www.novasbe.unl.pt/en/faculty-research/faculty/faculty-detail/id/1267/rongjiao-ji)), Rongjiao Ji predominantly instructs courses in data curation, data visualization, digital experimentation, and computer programming, across both undergraduate and graduate programs. She earned her Ph.D. from the Mathematics Department of Università degli Studi di Milano (University of Milan) under the BIGMATH program, a Marie Sklodowska-Curie Action, in collaboration with 3Lateral. Her doctoral research centered on facial emotion detection, sentiment analysis, and natural language processing. Ji holds a Master's degree in Mathematics and Applications from the Institute Superior Tecnico (University of Lisbon), and a Bachelor's degree in Information and Computing Science from Dalian University of Technology. Prior to her Ph.D., she worked as a research assistant at the Signal Processing and Image Group in the Institute for Systems and Robotics in Lisbon.
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
 A data-driven personal website
 ======
