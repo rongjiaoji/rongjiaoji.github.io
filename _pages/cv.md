@@ -11,35 +11,33 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Mathematical Sciences, University of Milan, 2023
+* M.S. in Mathematics and Applications, Instituto Superior Tecnico, University of Lisbon, 2017
+* B.S. in Information and Computing Science, Dalian University of Technology, 2016
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* From Autumn 2022: Adjunct Assistant Professor
+  * Nova School of Business and Economics
+  * Duties includes: Teaching Courses and Supervising Master Theses
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* From Autumn 2023: Resident Affiliated Faculty
+  * Data Science Knowledge Center, Nova SBE
+  * Duties includes: Developing Websites and Prediction Models
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2018: Research Assistant
+  * Institute For Systems and Robotics, University of Lisbon
+  * Duties included: Developing time series models
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Deep Learning and Machine Learning
+* Applied Statistical Modeling
+* Data Science
+  * Programming in Python
+  * Data Visualization 
+  * Business Analytics
+* LLM-related AI tools
 
 Publications
 ======
@@ -59,6 +57,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
