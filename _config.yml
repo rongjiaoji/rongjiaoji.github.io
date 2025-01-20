@@ -22,11 +22,11 @@ repository               : "rongjiaoji/rongjiaoji.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Rongjiao Ji"
+  name             : "Rongjiao Ji, Ph.D."
   pronouns         : # example: "she/her"  
-  bio              : "Marie Skłodowska-Curie Ph.D., Adjunct Assistant Professor at Nova SBE."
-  location         : "Portugal/Italy"
-  employer         : "Nova School of Business and Economics"
+  bio              : "Adjunct Assistant Professor at Nova SBE."
+  location         : "Lisbon, Portugal & Milan, Italy"
+  employer         : "Nova SBE"
   URI              : "https://www.novasbe.unl.pt/en/faculty-research/faculty/faculty-detail/id/1267/rongjiao-ji"# URL
   email            : "rongjiao.ji@novasbe.pt" 
 
