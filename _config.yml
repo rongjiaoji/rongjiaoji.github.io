@@ -21,7 +21,7 @@ repository               : "rongjiaoji/rongjiaoji.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "ji.jpg"
   name             : "Rongjiao Ji, Ph.D."
   pronouns         : # example: "she/her"  
   bio              : "Adjunct Assistant Professor at Nova SBE."
